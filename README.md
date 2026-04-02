@@ -4,14 +4,13 @@ An Amazon sales dashboard visualizing profit, category distribution, state-wise 
 # 🛒 Amazon Sales Analytics Dashboard
 
 <p align="center">
-  <img src="Screenshot_2026-04-01_145543.png" alt="Amazon Sales Dashboard Preview" width="700"/>
+  <img src="Screenshot.png" alt="Amazon Sales Dashboard Preview" width="700"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Domain-E--Commerce%20Analytics-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge"/>
 </p>
 
 ---
