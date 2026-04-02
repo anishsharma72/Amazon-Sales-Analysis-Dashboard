@@ -4,7 +4,7 @@ An Amazon sales dashboard visualizing profit, category distribution, state-wise 
 # 🛒 Amazon Sales Analytics Dashboard
 
 <p align="center">
-  <img src="Screenshot.png" alt="Amazon Sales Dashboard Preview" width="700"/>
+  <img src="Screenshot.png" alt="Amazon Sales Dashboard Preview" width="300"/>
 </p>
 
 <p align="center">
